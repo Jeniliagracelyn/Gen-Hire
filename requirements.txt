@@ -1,0 +1,36 @@
+# Data Handling
+pandas
+numpy
+
+# NLP & Embeddings
+spacy
+nltk
+sentence-transformers
+transformers
+torch
+accelerate
+
+# PDF & Text Parsing
+PyMuPDF  # Also known as fitz
+unidecode
+rapidfuzz
+regex
+
+# FastAPI Backend
+fastapi==0.95.0
+uvicorn
+pydantic==1.10.13
+python-multipart
+
+# Email Templates
+jinja2
+
+# Database
+SQLAlchemy
+sqlite-utils
+
+# Environment Config
+python-dotenv
+
+# (Optional) Simple Frontend for Prototyping
+streamlit
